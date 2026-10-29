@@ -4,7 +4,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import { createStackNavigator } from '@react-navigation/stack'; 
 import { View, Text, StyleSheet, Image, Animated, ScrollView, TouchableOpacity, Linking } from 'react-native';
 
-
+// Este es un cambio en la rama dev
 function Inicio() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
